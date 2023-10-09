@@ -2,4 +2,4 @@
 
 My Code Fellows reading notes
 
-https://github.com/AnthonyBytes
+[GitHub Profile](https://github.com/AnthonyBytes)
