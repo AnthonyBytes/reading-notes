@@ -2,6 +2,8 @@
 
 My Code Fellows reading notes
 
+***
+
 ## **What is growth mindset?** 
 
 It's being open to learning through challenges and failures, and understanding that these will lead to opportunities to grow.
@@ -14,7 +16,7 @@ It's being open to learning through challenges and failures, and understanding t
 
 ***
 
-My name is Anthony and I am a Technical Recruiter attempting to become a dev. I love to watch sports, primarily football and baseball, and love to play video games! Learn more about me by checking out my LinkedIn and GitHub profiles below:
+My name is Anthony and I am a Technical Recruiter attempting to become a dev. I love to watch sports (primarily football and baseball) and love to play video games! If you would like to learn more about me, feel free to check out my LinkedIn and GitHub profiles below:
 
 [LinkedIn Profile](https://www.linkedin.com/in/anthony-blanton-829021a4/)
 
