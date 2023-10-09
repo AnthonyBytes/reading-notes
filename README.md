@@ -2,13 +2,17 @@
 
 My Code Fellows reading notes
 
-What is growth mindset? It's being open to learning through challenges and failures, and understanding that these will lead to opportunities to grow.
+## **What is growth mindset?** 
 
-- Understand that it's supposed to be difficult and you will get it eventually.
+It's being open to learning through challenges and failures, and understanding that these will lead to opportunities to grow.
 
-- Stay persistent and never give up.
+- Understand that it's *supposed to be difficult* and you will *get it eventually*.
 
-- Stay positive and do not doubt yourself.
+- Stay *persistent* and *never give up*.
+
+- Stay *positive* and *do not doubt yourself*.
+
+***
 
 My name is Anthony and I am a Technical Recruiter attempting to become a dev. I love to watch sports, primarily football and baseball, and love to play video games! Learn more about me by checking out my LinkedIn and GitHub profiles below:
 
