@@ -6,7 +6,7 @@ My Code Fellows reading notes
 
 ## **What is growth mindset?** 
 
-It's being open to learning through challenges and failures, and understanding that these will lead to opportunities to grow.
+It's being open to learning through challenges and failures, and understanding that these will lead to growth.
 
 - Understand that it's *supposed to be difficult* and you will *get it eventually*.
 
