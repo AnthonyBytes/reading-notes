@@ -8,7 +8,7 @@ This website contains all of my reading notes for code 102 & 201.
 
 ### Table of Contents
 
-**code 102**
+**code 102 Reading Notes**
 
 1. [Learning Markdown](https://anthonybytes.github.io/reading-notes/read-01)
 2. [The Coder's Computer](https://anthonybytes.github.io/reading-notes/read-02)
@@ -19,7 +19,7 @@ This website contains all of my reading notes for code 102 & 201.
 7. [Programming with JavaScript](https://anthonybytes.github.io/reading-notes/read-07)
 8. [Operators and Loops](https://anthonybytes.github.io/reading-notes/read-08)
 
-**code 201**
+**code 201 Reading Notes**
 
 1. [Reading 1](https://anthonybytes.github.io/code-201-reading-notes/)
 2. [Reading 2](https://anthonybytes.github.io/code-201-reading-notes/)
