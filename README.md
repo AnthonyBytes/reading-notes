@@ -1,27 +1,18 @@
-# My Code fellow reading notes
+# Code 102 Reading Notes
 
-My Code Fellows reading notes
+## Introduction
 
-***
+My name is Anthony and I am a Technical Recruiter attempting to become a dev. 
 
-## **What is growth mindset?** 
+This website contains all of my reading notes for code 102.
 
-It's being open to learning through challenges and failures, and understanding that these will lead to growth.
+### Table of Contents
 
-- Understand that it's *supposed to be difficult* and you will *get it eventually*.
-
-- Stay *persistent* and *never give up*.
-
-- Stay *positive* and *do not doubt yourself*.
-
-***
-
-## **About me**
-
-My name is Anthony and I am a Technical Recruiter attempting to become a dev. I ~~like~~ **LOVE** to watch sports (primarily football and baseball) and play video games! If you would like to learn more about me, feel free to check out my LinkedIn and GitHub profiles below:
-
-[LinkedIn Profile](https://www.linkedin.com/in/anthony-blanton-829021a4/)
-
-[GitHub Profile](https://github.com/AnthonyBytes)
-
-![Picture of me](https://media.licdn.com/dms/image/D5603AQEAqds-l9Npmg/profile-displayphoto-shrink_800_800/0/1676083007063?e=2147483647&v=beta&t=7lJuUi9xQa4KptlTZT0Sdns1E_H12e-Dv6eU_9OjzF4)
+1. [Learning Markdown](https://anthonybytes.github.io/reading-notes/read-01)
+2. [The Coder's Computer](https://anthonybytes.github.io/reading-notes/read-02)
+3. [Revisions and the Cloud](https://anthonybytes.github.io/reading-notes/read-03)
+4. [Structure web pages with HTML](https://anthonybytes.github.io/reading-notes/read-04)
+5. [Design web pages with CSS](https://anthonybytes.github.io/reading-notes/read-05)
+6. [Dynamic web pages with JavaScript](https://anthonybytes.github.io/reading-notes/read-06)
+7. [Programming with JavaScript](https://anthonybytes.github.io/reading-notes/read-07)
+8. [Operators and Loops](https://anthonybytes.github.io/reading-notes/read-08)
